@@ -3,7 +3,8 @@ FreeCell
 
 Jogo de FreeCell feito utilizando a Linguagem C e a engine Allegro na construção da parte gráfica.
 O objetivo do jogo é empilhar as cartas de mesmo naipe de ás a rei.<br>
-Programa feito como trabalho para a disciplina de Estrutura de Dados  do 2º período do curso de Tecnologia em Anásise e Sistemas  Instituto Federal de Educação, Ciência e Tecnologia Paraíba.
+Programa feito como trabalho para a disciplina de Estrutura de Dados  do 2º período do curso de Tecnologia em Sistemas para Internet do Instituto Federal de Educação, Ciência e Tecnologia da 
+Paraíba.
 
 <h4>Tecnologias Utilizadas</h4>
 <ul>
